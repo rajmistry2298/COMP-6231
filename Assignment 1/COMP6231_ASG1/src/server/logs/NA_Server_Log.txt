@@ -1,0 +1,21 @@
+2020.06.07.18.04.48 : NA Log File Crated!!
+2020.06.07.18.04.48 : NA Server Started!!!
+2020.06.07.18.05.21 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 0, OFFLINE : 3.  , EU: ONLINE : 0, OFFLINE : 3. , AS: ONLINE : 0, OFFLINE : 3.
+2020.06.07.18.12.51 : PlayerClient Tried to Sign In But Player Acount with Username "johnmcman" does not exist!!!
+2020.06.07.18.16.07 : Player Account "rajmistry2298" Successfully Signed In!!!
+2020.06.07.18.17.36 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 1, OFFLINE : 2.  , EU: ONLINE : 0, OFFLINE : 3. , AS: ONLINE : 0, OFFLINE : 4.
+2020.06.07.18.18.46 : Player Account "rajmistry2298" Already Signed In!!!
+2020.06.07.18.21.02 : Player Account "rajmistry2298" Successfully Signed Out!!!
+2020.06.07.18.26.40 : Player Account "vincemcman" Successfully Created!!!
+2020.06.07.18.28.00 : PlayerClient Tried to Sign In But Player Acount with Username "brocklesner" does not exist!!!
+2020.06.07.18.29.01 : Player Account "vincemcman" Already Signed Out!!!
+2020.06.07.18.29.28 : Player Account "vincemcman" Successfully Signed In!!!
+2020.06.07.18.29.51 : Player Account "vincemcman" Already Signed In!!!
+2020.06.07.18.30.36 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 1, OFFLINE : 3.  , EU: ONLINE : 0, OFFLINE : 4. , AS: ONLINE : 0, OFFLINE : 4.
+2020.06.07.18.31.21 : Player Account "johncena54" Successfully Signed In!!!
+2020.06.07.18.31.39 : Player Account "johncena54" Already Signed In!!!
+2020.06.07.18.32.48 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 2, OFFLINE : 2.  , EU: ONLINE : 1, OFFLINE : 3. , AS: ONLINE : 0, OFFLINE : 4.
+2020.06.07.18.33.35 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 2, OFFLINE : 2.  , EU: ONLINE : 0, OFFLINE : 4. , AS: ONLINE : 0, OFFLINE : 4.
+2020.06.07.18.34.06 : Player Account "johncena54" Successfully Signed Out!!!
+2020.06.07.18.34.20 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 1, OFFLINE : 3.  , EU: ONLINE : 0, OFFLINE : 4. , AS: ONLINE : 0, OFFLINE : 4.
+2020.06.07.18.34.56 : Player Account "vincemcman" Successfully Signed Out!!!

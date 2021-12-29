@@ -1,0 +1,3 @@
+2020.06.25.01.48.33 : Player Account "shivamhadvani" Successfully Created!!!
+2020.06.25.02.12.56 : You have Entered Invalid Password For Transfer Player Account "shivamhadvani" !!!
+2020.06.25.02.14.48 : Player Account shivamhadvaniTransfered Succesfully To EU !!!

@@ -1,0 +1,46 @@
+2020.07.11.22.14.49 : AS Log File Crated!!
+2020.07.11.22.14.49 : AS Server Started!!!
+2020.07.11.22.14.50 : Asia Service Is Published : true
+2020.07.11.22.14.50 : AS UDP Server Started!!!
+2020.07.11.22.15.13 : UDP Request received :GETSTATUS
+2020.07.11.22.15.13 : Response Sent For :GETSTATUS
+2020.07.11.22.15.13 : UDP Request received :GETSTATUS
+2020.07.11.22.15.13 : Response Sent For :GETSTATUS
+2020.07.11.22.17.08 : Player Account "shivamhadvani" Successfully Created!!!
+2020.07.11.22.18.08 : UDP Request "GETSTATUS" Sent To EU
+2020.07.11.22.18.08 : UDP Request "GETSTATUS" Sent To NA
+2020.07.11.22.18.08 : UDP Response For "GETSTATUS" Received From EU
+2020.07.11.22.18.08 : UDP Response For "GETSTATUS" Received From NA
+2020.07.11.22.18.22 : UDP Request "GETSTATUS" Sent To EU
+2020.07.11.22.18.22 : UDP Request "GETSTATUS" Sent To NA
+2020.07.11.22.18.22 : UDP Response For "GETSTATUS" Received From NA
+2020.07.11.22.18.22 : UDP Response For "GETSTATUS" Received From EU
+2020.07.11.22.18.22 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , NA: ONLINE : 0, OFFLINE : 5., EU: ONLINE : 0, OFFLINE : 5.
+2020.07.11.22.25.10 : UDP Request received :GETSTATUS
+2020.07.11.22.25.10 : Response Sent For :GETSTATUS
+2020.07.11.22.26.35 : PlayerClient Tried to Sign Out But Player Acount with Username "UserNotExist" does not exist!!!
+2020.07.11.22.33.37 : UDP Request received :TRANSFERACCOUNT
+2020.07.11.22.33.37 : Transfere Unsuccessful Because Player Account With Username "paulheymanguy" Is Alredy Exist On AS!!!
+2020.07.11.22.33.37 : Response Sent For :TRANSFERACCOUNT
+2020.07.11.22.34.59 : UDP Request "TRANSFERACCOUNT" Sent To NA
+2020.07.11.22.34.59 : UDP Response For "TRANSFERACCOUNT" Received From NA
+2020.07.11.22.34.59 : Player Account shivamhadvani Transfered Succesfully To NA !!!
+2020.07.11.22.36.03 : UDP Request received :GETSTATUS
+2020.07.11.22.36.03 : Response Sent For :GETSTATUS
+2020.07.11.22.37.12 : Admin Tried To Suspend Account But Player Account "notvaliduser" Does Not Exist!!!
+2020.07.11.22.39.23 : UDP Request received :GETSTATUS
+2020.07.11.22.39.23 : Response Sent For :GETSTATUS
+2020.07.11.22.43.46 : AS Server Started!!!
+2020.07.11.22.43.47 : Asia Service Is Published : true
+2020.07.11.22.43.47 : AS UDP Server Started!!!
+2020.07.11.22.43.52 : UDP Request received :GETSTATUS
+2020.07.11.22.43.52 : UDP Request received :GETSTATUS
+2020.07.11.22.43.52 : Response Sent For :GETSTATUS
+2020.07.11.22.43.52 : Response Sent For :GETSTATUS
+2020.07.11.22.43.52 : UDP Request received :GETSTATUS
+2020.07.11.22.43.52 : Response Sent For :GETSTATUS
+2020.07.11.22.43.53 : UDP Request received :TRANSFERACCOUNT
+2020.07.11.22.43.53 : TransferSuccess: Player Account newusername Successfully Created At AS!!!
+2020.07.11.22.43.53 : Response Sent For :TRANSFERACCOUNT
+2020.07.11.22.43.55 : UDP Request received :GETSTATUS
+2020.07.11.22.43.55 : Response Sent For :GETSTATUS

@@ -1,0 +1,4 @@
+
+2020.06.28.02.15.34 : You have Entered Invalid Password For Transfer Player Account "rajmistry2298" !!!
+2020.06.28.02.17.09 : Transfere Unsuccessful Because Player Account With Username "rajmistry2298" Is Alredy Exist On EU!!!
+2020.07.02.15.35.14 : Player Account rajmistry2298 Transfered Succesfully To AS !!!

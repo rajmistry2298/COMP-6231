@@ -1,0 +1,41 @@
+2020.07.06.15.30.34 : EU Log File Crated!!
+2020.07.06.15.30.34 : EU Server Started!!!
+2020.07.06.15.30.35 : Europe Service Is Published : true
+2020.07.06.15.30.35 : EU UDP Server Started!!!
+2020.07.06.15.31.04 : UDP Request received :GETSTATUS
+2020.07.06.15.31.04 : Response Sent For :GETSTATUS
+2020.07.06.15.34.18 : UDP Request received :GETSTATUS
+2020.07.06.15.34.18 : Response Sent For :GETSTATUS
+2020.07.06.15.36.33 : PlayerClient Tried to Create A Player Account With Username "paulheymanguy" Is Alredy Exist!!!
+2020.07.06.15.39.14 : UDP Request received :GETSTATUS
+2020.07.06.15.39.14 : Response Sent For :GETSTATUS
+2020.07.06.15.41.52 : You have Entered Invalid Password For Sigin In into Player Account "rajmistry2298" !!!
+2020.07.06.15.45.53 : UDP Request received :GETSTATUS
+2020.07.06.15.45.53 : Response Sent For :GETSTATUS
+2020.07.06.15.46.16 : UDP Request received :GETSTATUS
+2020.07.06.15.46.16 : Response Sent For :GETSTATUS
+2020.07.06.15.54.46 : UDP Request received :GETSTATUS
+2020.07.06.15.54.46 : Response Sent For :GETSTATUS
+2020.07.06.15.55.27 : UDP Request received :GETSTATUS
+2020.07.06.15.55.27 : Response Sent For :GETSTATUS
+2020.07.06.15.59.00 : Admin Successfully Suspended Player Account "rajmistry2298" !!!
+2020.07.06.15.59.14 : UDP Request "GETSTATUS" Sent To NA
+2020.07.06.15.59.14 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.15.59.14 : UDP Response For "GETSTATUS" Received From NA
+2020.07.06.15.59.14 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.15.59.14 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : EU: ONLINE : 0, OFFLINE : 4. , AS: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 6.
+2020.07.06.15.59.49 : PlayerClient Tried to Sign In But Player Acount with Username "rajmistry2298" does not exist!!!
+2020.07.06.16.03.36 : EU Server Started!!!
+2020.07.06.16.03.36 : Europe Service Is Published : true
+2020.07.06.16.03.36 : EU UDP Server Started!!!
+2020.07.06.16.03.44 : UDP Request received :GETSTATUS
+2020.07.06.16.03.44 : UDP Request received :GETSTATUS
+2020.07.06.16.03.44 : Response Sent For :GETSTATUS
+2020.07.06.16.03.44 : UDP Request received :GETSTATUS
+2020.07.06.16.03.44 : Response Sent For :GETSTATUS
+2020.07.06.16.03.44 : Response Sent For :GETSTATUS
+2020.07.06.16.03.49 : UDP Request "GETSTATUS" Sent To NA
+2020.07.06.16.03.49 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.16.03.49 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.16.03.49 : UDP Response For "GETSTATUS" Received From NA
+2020.07.06.16.03.49 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : EU: ONLINE : 0, OFFLINE : 5. , AS: ONLINE : 0, OFFLINE : 6., NA: ONLINE : 0, OFFLINE : 4.

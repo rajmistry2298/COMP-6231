@@ -1,0 +1,2 @@
+2020.06.25.01.46.09 : Administrator Admin Successfully Connected To Server AS And Got Player Status ::
+AS: ONLINE : 0, OFFLINE : 5. , EU: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 5.

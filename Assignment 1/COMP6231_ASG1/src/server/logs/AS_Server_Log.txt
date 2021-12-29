@@ -1,0 +1,7 @@
+2020.06.07.18.04.54 : AS Log File Crated!!
+2020.06.07.18.04.54 : AS Server Started!!!
+2020.06.07.18.07.56 : Player Account "appleceo" Successfully Created!!!
+2020.06.07.18.09.21 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4.  , NA: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3.
+2020.06.07.18.14.01 : You have Entered Invalid Password For Sigin In into Player Account "rajmistry2298" !!!
+2020.06.07.18.19.51 : PlayerClient Tried to Sign Out But Player Acount with Username "ravimistry" does not exist!!!
+2020.06.07.18.22.18 : Player Account "appleceo" Already Signed Out!!!

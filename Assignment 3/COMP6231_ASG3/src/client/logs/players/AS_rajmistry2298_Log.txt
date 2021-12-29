@@ -1,0 +1,2 @@
+2020.07.02.15.35.14 : TransferSuccess => Playe Account Successfully Created.
+2020.07.02.15.35.54 : Player Account "rajmistry2298" Already Signed Out!!!

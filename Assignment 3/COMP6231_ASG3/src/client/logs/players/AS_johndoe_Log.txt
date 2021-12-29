@@ -1,0 +1,3 @@
+2020.07.06.15.32.55 : Player Account "johndoe" Successfully Created!!!
+2020.07.06.15.51.11 : You have Entered Invalid Password For Transfer Player Account "johndoe" !!!
+2020.07.06.15.53.55 : Player Account johndoe Transfered Succesfully To NA !!!

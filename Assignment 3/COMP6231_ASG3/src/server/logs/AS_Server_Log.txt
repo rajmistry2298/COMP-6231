@@ -1,0 +1,48 @@
+2020.07.06.15.30.38 : AS Log File Crated!!
+2020.07.06.15.30.38 : AS Server Started!!!
+2020.07.06.15.30.39 : Asia Service Is Published : true
+2020.07.06.15.30.39 : AS UDP Server Started!!!
+2020.07.06.15.31.04 : UDP Request received :GETSTATUS
+2020.07.06.15.31.04 : Response Sent For :GETSTATUS
+2020.07.06.15.32.55 : Player Account "johndoe" Successfully Created!!!
+2020.07.06.15.34.18 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.15.34.18 : UDP Request "GETSTATUS" Sent To NA
+2020.07.06.15.34.18 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.15.34.18 : UDP Response For "GETSTATUS" Received From NA
+2020.07.06.15.34.18 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , EU: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 5.
+2020.07.06.15.39.14 : UDP Request received :GETSTATUS
+2020.07.06.15.39.14 : Response Sent For :GETSTATUS
+2020.07.06.15.40.42 : PlayerClient Tried to Sign In But Player Acount with Username "usernotexist" does not exist!!!
+2020.07.06.15.43.43 : PlayerClient Tried to Sign Out But Player Acount with Username "UserNotValid" does not exist!!!
+2020.07.06.15.45.53 : UDP Request received :GETSTATUS
+2020.07.06.15.45.53 : Response Sent For :GETSTATUS
+2020.07.06.15.46.16 : UDP Request received :GETSTATUS
+2020.07.06.15.46.16 : Response Sent For :GETSTATUS
+2020.07.06.15.47.31 : Player Account "lanabelitchka" Already Signed Out!!!
+2020.07.06.15.51.11 : PlayerClient Tried TO Transfer Account But Entered Invalid Password For johndoe!!!
+2020.07.06.15.52.23 : UDP Request received :TRANSFERACCOUNT
+2020.07.06.15.52.23 : Transfere Unsuccessful Because Player Account With Username "rajmistry2298" Is Alredy Exist On AS!!!
+2020.07.06.15.52.23 : Response Sent For :TRANSFERACCOUNT
+2020.07.06.15.53.55 : UDP Request "TRANSFERACCOUNT" Sent To NA
+2020.07.06.15.53.55 : UDP Response For "TRANSFERACCOUNT" Received From NA
+2020.07.06.15.53.55 : Player Account johndoe Transfered Succesfully To NA !!!
+2020.07.06.15.54.46 : UDP Request received :GETSTATUS
+2020.07.06.15.54.46 : Response Sent For :GETSTATUS
+2020.07.06.15.55.27 : UDP Request received :GETSTATUS
+2020.07.06.15.55.27 : Response Sent For :GETSTATUS
+2020.07.06.15.59.14 : UDP Request received :GETSTATUS
+2020.07.06.15.59.14 : Response Sent For :GETSTATUS
+2020.07.06.16.03.39 : AS Server Started!!!
+2020.07.06.16.03.39 : Asia Service Is Published : true
+2020.07.06.16.03.40 : AS UDP Server Started!!!
+2020.07.06.16.03.44 : UDP Request received :GETSTATUS
+2020.07.06.16.03.44 : UDP Request received :GETSTATUS
+2020.07.06.16.03.44 : UDP Request received :TRANSFERACCOUNT
+2020.07.06.16.03.44 : Response Sent For :GETSTATUS
+2020.07.06.16.03.44 : TransferSuccess: Player Account newusername Successfully Created At AS!!!
+2020.07.06.16.03.44 : Response Sent For :TRANSFERACCOUNT
+2020.07.06.16.03.44 : Response Sent For :GETSTATUS
+2020.07.06.16.03.44 : UDP Request received :GETSTATUS
+2020.07.06.16.03.44 : Response Sent For :GETSTATUS
+2020.07.06.16.03.49 : UDP Request received :GETSTATUS
+2020.07.06.16.03.49 : Response Sent For :GETSTATUS

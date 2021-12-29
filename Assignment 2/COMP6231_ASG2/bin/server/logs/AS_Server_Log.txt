@@ -1,0 +1,225 @@
+2020.06.07.18.04.54 : AS Log File Crated!!
+2020.06.07.18.04.54 : AS Server Started!!!
+2020.06.07.18.07.56 : Player Account "appleceo" Successfully Created!!!
+2020.06.07.18.09.21 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4.  , NA: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3.
+2020.06.07.18.14.01 : You have Entered Invalid Password For Sigin In into Player Account "rajmistry2298" !!!
+2020.06.07.18.19.51 : PlayerClient Tried to Sign Out But Player Acount with Username "ravimistry" does not exist!!!
+2020.06.07.18.22.18 : Player Account "appleceo" Already Signed Out!!!
+2020.06.22.01.46.20 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 3. , NA: ONLINE : 0, OFFLINE : 3., EU: ONLINE : 0, OFFLINE : 3.
+2020.06.22.01.48.03 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 1, OFFLINE : 3.
+2020.06.22.16.37.31 : Player Account "devduttj" Successfully Transfered!!!
+2020.06.22.18.20.01 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.22.18.30.56 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3.
+2020.06.22.18.34.01 : Player Account "rajmistrynew" Successfully Transfered!!!
+2020.06.22.18.39.43 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4. , EU: ONLINE : 0, OFFLINE : 4., NA: ONLINE : 0, OFFLINE : 4.
+2020.06.22.18.43.54 : Player Account "AdminBro" Successfully Created!!!
+2020.06.22.18.44.26 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 5. , NA: ONLINE : 0, OFFLINE : 4., EU: ONLINE : 0, OFFLINE : 4.
+2020.06.22.18.45.17 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 5. , NA: ONLINE : 0, OFFLINE : 5., EU: ONLINE : 0, OFFLINE : 4.
+2020.06.22.18.53.51 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.22.18.54.49 : Player Account "rockmcman" Successfully Created!!!
+2020.06.22.18.55.12 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.22.19.37.41 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 3. , NA: ONLINE : 0, OFFLINE : 3., EU: ONLINE : 0, OFFLINE : 3.
+2020.06.22.19.38.45 : TransferSuccess
+2020.06.22.19.39.19 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4. , EU: ONLINE : 0, OFFLINE : 4., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.22.19.41.47 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4. , NA: ONLINE : 0, OFFLINE : 4., EU: ONLINE : 0, OFFLINE : 4.
+2020.06.22.19.46.02 : TransferSuccess
+2020.06.22.19.51.17 : Player Account "abcdefg" Successfully Created!!!
+2020.06.22.19.56.10 : Player Account "abcdefg" Successfully Created!!!
+2020.06.22.20.10.48 : Player Account "qwertyui" Successfully Created!!!
+2020.06.22.20.11.01 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.23.01.40.12 : Player Account "rockmcman" Successfully Created!!!
+2020.06.23.01.40.37 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.23.01.48.23 : PlayerClient Tried to Create A Player Account With Username "rockmcman" Is Alredy Exist!!!
+2020.06.23.01.50.18 : PlayerClient Tried to Create A Player Account With Username "rockmcman" Is Alredy Exist!!!
+2020.06.23.01.51.17 : PlayerClient Tried TO Transfer Account But Player Acount with Username "ygbkug" does not exist!!!
+2020.06.23.12.36.08 : Player Account "rockmcman" Successfully Created!!!
+2020.06.23.12.36.27 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 4. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.23.12.37.32 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3., NA: ONLINE : 0, OFFLINE : 3.
+2020.06.23.12.38.10 : PlayerClient Tried to Sign In But Player Acount with Username "rockmcman" does not exist!!!
+2020.06.25.01.41.33 : AS Server Started!!!
+2020.06.25.01.41.33 : AS UDP Server Started!!!
+2020.06.25.01.42.26 : UDP Request received :GETSTATUS
+2020.06.25.01.42.26 : Response Sent For :GETSTATUS
+2020.06.25.01.45.38 : UDP Request received :GETSTATUS
+2020.06.25.01.45.38 : Response Sent For :GETSTATUS
+2020.06.25.01.46.09 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.01.46.09 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.01.46.09 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.01.46.09 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.01.46.09 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 5. , EU: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 5.
+2020.06.25.01.46.29 : UDP Request received :GETSTATUS
+2020.06.25.01.46.29 : Response Sent For :GETSTATUS
+2020.06.25.01.49.05 : UDP Request received :GETSTATUS
+2020.06.25.01.49.05 : Response Sent For :GETSTATUS
+2020.06.25.01.51.18 : Player Account "rajmistry2298" Successfully Signed In!!!
+2020.06.25.01.53.17 : UDP Request received :GETSTATUS
+2020.06.25.01.53.17 : Response Sent For :GETSTATUS
+2020.06.25.01.57.35 : You have Entered Invalid Password For Sigin In into Player Account "rajmistry2298" !!!
+2020.06.25.02.00.39 : You have Entered Invalid Password For Sigin In into Player Account "rajmistry2298" !!!
+2020.06.25.02.01.29 : You have Entered Invalid Password For Sigin In into Player Account "rajmistry2298" !!!
+2020.06.25.02.02.44 : Player Account "rajmistry2298" Already Signed In!!!
+2020.06.25.02.07.22 : UDP Request received :GETSTATUS
+2020.06.25.02.07.22 : Response Sent For :GETSTATUS
+2020.06.25.02.07.33 : Player Account "rajmistry2298" Successfully Signed Out!!!
+2020.06.25.02.07.47 : UDP Request received :GETSTATUS
+2020.06.25.02.07.47 : Response Sent For :GETSTATUS
+2020.06.25.02.09.13 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.02.09.13 : Transfere Unsuccessful Because Player Account With Username "rajmistry2298" Is Alredy Exist On AS!!!
+2020.06.25.02.09.13 : Response Sent For :TRANSFERACCOUNT
+2020.06.25.02.12.13 : PlayerClient Tried TO Transfer Account But Player Acount With Username "shivamhadvani" does not exist!!!
+2020.06.25.02.15.20 : UDP Request received :GETSTATUS
+2020.06.25.02.15.21 : Response Sent For :GETSTATUS
+2020.06.25.02.18.59 : UDP Request received :GETSTATUS
+2020.06.25.02.18.59 : Response Sent For :GETSTATUS
+2020.06.25.15.46.43 : AS Server Started!!!
+2020.06.25.15.46.43 : AS UDP Server Started!!!
+2020.06.25.15.46.58 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.46.58 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.46.58 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.46.58 : UDP Request received :GETSTATUS
+2020.06.25.15.46.58 : UDP Request received :GETSTATUS
+2020.06.25.15.46.58 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.46.58 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 5. , NA: ONLINE : 0, OFFLINE : 5., EU: ONLINE : 0, OFFLINE : 6.
+2020.06.25.15.46.58 : Player Account "newusername" Successfully Created!!!
+2020.06.25.15.46.58 : Response Sent For :GETSTATUS
+2020.06.25.15.46.58 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.46.58 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.46.58 : Response Sent For :GETSTATUS
+2020.06.25.15.46.58 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.46.58 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.46.58 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , EU: ONLINE : 0, OFFLINE : 6., NA: ONLINE : 0, OFFLINE : 6.
+2020.06.25.15.46.58 : UDP Request received :GETSTATUS
+2020.06.25.15.46.58 : Response Sent For :GETSTATUS
+2020.06.25.15.46.58 : UDP Request received :GETSTATUS
+2020.06.25.15.46.58 : Response Sent For :GETSTATUS
+2020.06.25.15.47.58 : UDP Request received :GETSTATUS
+2020.06.25.15.47.58 : Response Sent For :GETSTATUS
+2020.06.25.15.47.58 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.47.58 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.47.58 : UDP Request received :GETSTATUS
+2020.06.25.15.47.58 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.47.58 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.47.58 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , NA: ONLINE : 0, OFFLINE : 6., EU: ONLINE : 0, OFFLINE : 6.
+2020.06.25.15.47.58 : PlayerClient Tried to Create A Player Account With Username "newusername" Is Alredy Exist!!!
+2020.06.25.15.47.58 : Response Sent For :GETSTATUS
+2020.06.25.15.47.58 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.47.58 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.47.58 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.47.58 : UDP Request received :GETSTATUS
+2020.06.25.15.47.58 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.47.58 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , EU: ONLINE : 0, OFFLINE : 6., NA: ONLINE : 0, OFFLINE : 6.
+2020.06.25.15.47.58 : UDP Request received :GETSTATUS
+2020.06.25.15.47.58 : Response Sent For :GETSTATUS
+2020.06.25.15.47.58 : Response Sent For :GETSTATUS
+2020.06.25.15.52.17 : UDP Request received :GETSTATUS
+2020.06.25.15.52.17 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.52.17 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.52.17 : Response Sent For :GETSTATUS
+2020.06.25.15.52.17 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.52.17 : UDP Request received :GETSTATUS
+2020.06.25.15.52.17 : Response Sent For :GETSTATUS
+2020.06.25.15.52.17 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.52.17 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , EU: ONLINE : 0, OFFLINE : 6., NA: ONLINE : 0, OFFLINE : 6.
+2020.06.25.15.52.17 : PlayerClient Tried to Create A Player Account With Username "newusername" Is Alredy Exist!!!
+2020.06.25.15.52.17 : UDP Request received :GETSTATUS
+2020.06.25.15.52.17 : Response Sent For :GETSTATUS
+2020.06.25.15.52.17 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.52.17 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.52.17 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.52.17 : UDP Request received :GETSTATUS
+2020.06.25.15.52.17 : Response Sent For :GETSTATUS
+2020.06.25.15.52.17 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.52.17 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , NA: ONLINE : 0, OFFLINE : 6., EU: ONLINE : 0, OFFLINE : 6.
+2020.06.25.15.53.19 : AS Server Started!!!
+2020.06.25.15.53.20 : AS UDP Server Started!!!
+2020.06.25.15.53.34 : UDP Request received :GETSTATUS
+2020.06.25.15.53.34 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.53.34 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.53.34 : Response Sent For :GETSTATUS
+2020.06.25.15.53.34 : UDP Request received :GETSTATUS
+2020.06.25.15.53.34 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.53.34 : Response Sent For :GETSTATUS
+2020.06.25.15.53.34 : UDP Request received :GETSTATUS
+2020.06.25.15.53.34 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.53.34 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 5. , NA: ONLINE : 0, OFFLINE : 6., EU: ONLINE : 0, OFFLINE : 5.
+2020.06.25.15.53.34 : Player Account "newusername" Successfully Created!!!
+2020.06.25.15.53.34 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.15.53.34 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.15.53.34 : Response Sent For :GETSTATUS
+2020.06.25.15.53.34 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.15.53.34 : UDP Request received :GETSTATUS
+2020.06.25.15.53.34 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.15.53.34 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , EU: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 6.
+2020.06.25.15.53.34 : Response Sent For :GETSTATUS
+2020.06.25.17.05.03 : AS Server Started!!!
+2020.06.25.17.05.04 : AS UDP Server Started!!!
+2020.06.25.17.05.38 : UDP Request received :GETSTATUS
+2020.06.25.17.05.38 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.17.05.38 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.17.05.38 : Response Sent For :GETSTATUS
+2020.06.25.17.05.38 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.17.05.38 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.17.05.38 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 5. , EU: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 6.
+2020.06.25.17.05.38 : Player Account "newusername" Successfully Created!!!
+2020.06.25.17.05.38 : UDP Request received :GETSTATUS
+2020.06.25.17.05.38 : UDP Request "GETSTATUS" Sent To NA
+2020.06.25.17.05.38 : UDP Request "GETSTATUS" Sent To EU
+2020.06.25.17.05.38 : Response Sent For :GETSTATUS
+2020.06.25.17.05.38 : UDP Response For "GETSTATUS" Received From EU
+2020.06.25.17.05.38 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.17.05.38 : Transfere Unsuccessful Because Player Account With Username "newusername" Is Alredy Exist On AS!!!
+2020.06.25.17.05.38 : Response Sent For :TRANSFERACCOUNT
+2020.06.25.17.05.38 : UDP Response For "GETSTATUS" Received From NA
+2020.06.25.17.05.38 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : AS: ONLINE : 0, OFFLINE : 6. , EU: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 5.
+2020.06.25.17.05.38 : UDP Request "TRANSFERACCOUNT" Sent To AS
+2020.06.25.17.05.38 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.17.18.20 : UDP Request received :GETSTATUS
+2020.06.25.17.18.20 : UDP Request received :GETSTATUS
+2020.06.25.17.19.56 : AS Server Started!!!
+2020.06.25.17.19.57 : AS UDP Server Started!!!
+2020.06.25.17.20.10 : UDP Request received :GETSTATUS
+2020.06.25.17.20.10 : Response Sent For :GETSTATUS
+2020.06.25.17.20.10 : UDP Request received :GETSTATUS
+2020.06.25.17.20.10 : UDP Request received :GETSTATUS
+2020.06.25.17.20.10 : Response Sent For :GETSTATUS
+2020.06.25.17.20.10 : Response Sent For :GETSTATUS
+2020.06.25.17.20.10 : UDP Request received :GETSTATUS
+2020.06.25.17.20.10 : Response Sent For :GETSTATUS
+2020.06.25.17.20.10 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.17.20.10 : TransferSuccess: Player Account newusername Successfully Created At AS!!!
+2020.06.25.17.20.10 : Response Sent For :TRANSFERACCOUNT
+2020.06.25.20.50.34 : AS Server Started!!!
+2020.06.25.20.50.35 : AS UDP Server Started!!!
+2020.06.25.20.51.06 : UDP Request received :GETSTATUS
+2020.06.25.20.51.06 : Response Sent For :GETSTATUS
+2020.06.25.20.51.06 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.20.51.06 : TransferSuccess: Player Account newusername Successfully Created At AS!!!
+2020.06.25.20.51.06 : Response Sent For :TRANSFERACCOUNT
+2020.06.25.20.51.06 : UDP Request received :GETSTATUS
+2020.06.25.20.51.06 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.20.51.06 : Response Sent For :GETSTATUS
+2020.06.25.20.51.06 : Transfere Unsuccessful Because Player Account With Username "newusername" Is Alredy Exist On AS!!!
+2020.06.25.20.51.06 : Response Sent For :TRANSFERACCOUNT
+2020.06.25.20.54.16 : UDP Request received :GETSTATUS
+2020.06.25.20.54.16 : Response Sent For :GETSTATUS
+2020.06.25.20.54.16 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.20.54.16 : Transfere Unsuccessful Because Player Account With Username "newusername" Is Alredy Exist On AS!!!
+2020.06.25.20.54.16 : UDP Request received :GETSTATUS
+2020.06.25.20.54.16 : UDP Request received :TRANSFERACCOUNT
+2020.06.25.20.54.16 : Transfere Unsuccessful Because Player Account With Username "newusername" Is Alredy Exist On AS!!!
+2020.06.25.20.54.16 : Response Sent For :TRANSFERACCOUNT
+2020.06.25.20.54.16 : Response Sent For :TRANSFERACCOUNT
+2020.06.25.20.54.16 : Response Sent For :GETSTATUS
+2020.06.26.02.25.00 : AS Server Started!!!
+2020.06.26.02.25.00 : AS UDP Server Started!!!
+2020.06.26.02.25.13 : UDP Request received :GETSTATUS
+2020.06.26.02.25.13 : UDP Request received :GETSTATUS
+2020.06.26.02.25.13 : Response Sent For :GETSTATUS
+2020.06.26.02.25.13 : UDP Request received :TRANSFERACCOUNT
+2020.06.26.02.25.13 : Response Sent For :GETSTATUS
+2020.06.26.02.25.13 : TransferSuccess: Player Account newusername Successfully Created At AS!!!
+2020.06.26.02.25.13 : Response Sent For :TRANSFERACCOUNT
+2020.06.26.02.25.13 : UDP Request received :GETSTATUS
+2020.06.26.02.25.13 : Response Sent For :GETSTATUS
+2020.06.26.02.25.18 : UDP Request received :GETSTATUS
+2020.06.26.02.25.18 : Response Sent For :GETSTATUS

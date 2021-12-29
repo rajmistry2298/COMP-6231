@@ -1,0 +1,1 @@
+2020.06.28.02.18.32 : TransferSuccess => Playe Account Successfully Created.

@@ -1,0 +1,81 @@
+2020.07.06.15.30.28 : NA Log File Crated!!
+2020.07.06.15.30.28 : NA Server Started!!!
+2020.07.06.15.30.31 : North-America Service Is Published : true
+2020.07.06.15.30.31 : NA UDP Server Started!!!
+2020.07.06.15.31.04 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.15.31.04 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.15.31.04 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.15.31.04 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.15.31.04 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 0, OFFLINE : 5. , AS: ONLINE : 0, OFFLINE : 5., EU: ONLINE : 0, OFFLINE : 5.
+2020.07.06.15.34.18 : UDP Request received :GETSTATUS
+2020.07.06.15.34.18 : Response Sent For :GETSTATUS
+2020.07.06.15.38.21 : Player Account "paulheymanguy" Successfully Signed In!!!
+2020.07.06.15.39.14 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.15.39.14 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.15.39.14 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.15.39.14 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.15.39.14 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 1, OFFLINE : 4. , EU: ONLINE : 0, OFFLINE : 5., AS: ONLINE : 0, OFFLINE : 6.
+2020.07.06.15.42.44 : Player Account "paulheymanguy" Already Signed In!!!
+2020.07.06.15.44.48 : Player Account "paulheymanguy" Successfully Signed Out!!!
+2020.07.06.15.46.16 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.15.46.16 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.15.46.16 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.15.46.16 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.15.46.16 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 0, OFFLINE : 5. , EU: ONLINE : 0, OFFLINE : 5., AS: ONLINE : 0, OFFLINE : 6.
+2020.07.06.15.49.33 : PlayerClient Tried TO Transfer Account But Player Acount With Username "AccountNotExist" does not exist!!!
+2020.07.06.15.52.23 : UDP Request "TRANSFERACCOUNT" Sent To AS
+2020.07.06.15.52.23 : UDP Response For "TRANSFERACCOUNT" Received From AS
+2020.07.06.15.53.55 : UDP Request received :TRANSFERACCOUNT
+2020.07.06.15.53.55 : TransferSuccess: Player Account johndoe Successfully Created At NA!!!
+2020.07.06.15.53.55 : Response Sent For :TRANSFERACCOUNT
+2020.07.06.15.55.27 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.15.55.27 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.15.55.27 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.15.55.27 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.15.55.27 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 0, OFFLINE : 6. , EU: ONLINE : 0, OFFLINE : 5., AS: ONLINE : 0, OFFLINE : 5.
+2020.07.06.15.58.22 : Admin Tried To Suspend Account But Player Account "Usernotexist" Does Not Exist!!!
+2020.07.06.15.59.14 : UDP Request received :GETSTATUS
+2020.07.06.15.59.14 : Response Sent For :GETSTATUS
+2020.07.06.16.03.32 : NA Server Started!!!
+2020.07.06.16.03.33 : North-America Service Is Published : true
+2020.07.06.16.03.33 : NA UDP Server Started!!!
+2020.07.06.16.03.44 : Player Account "newusername" Successfully Created!!!
+2020.07.06.16.03.44 : PlayerClient Tried to Create A Player Account With Username "newusername" Is Alredy Exist!!!
+2020.07.06.16.03.44 : Player Account "newusername" Successfully Signed In!!!
+2020.07.06.16.03.44 : Player Account "newusername" Already Signed In!!!
+2020.07.06.16.03.44 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.16.03.44 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.16.03.44 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.16.03.44 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.16.03.44 : PlayerClient Tried to Create A Player Account With Username "newusername" Is Alredy Exist!!!
+2020.07.06.16.03.44 : Player Account "newusername" Already Signed In!!!
+2020.07.06.16.03.44 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.16.03.44 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.16.03.44 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.16.03.44 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 1, OFFLINE : 5. , EU: ONLINE : 0, OFFLINE : 5., AS: ONLINE : 0, OFFLINE : 5.
+2020.07.06.16.03.44 : Player Account "newusername" Successfully Signed Out!!!
+2020.07.06.16.03.44 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.16.03.44 : UDP Request "GETSTATUS" Sent To EU
+2020.07.06.16.03.44 : UDP Request "GETSTATUS" Sent To AS
+2020.07.06.16.03.44 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 1, OFFLINE : 5. , AS: ONLINE : 0, OFFLINE : 5., EU: ONLINE : 0, OFFLINE : 5.
+2020.07.06.16.03.44 : UDP Request "TRANSFERACCOUNT" Sent To AS
+2020.07.06.16.03.44 : UDP Response For "TRANSFERACCOUNT" Received From AS
+2020.07.06.16.03.44 : UDP Response For "GETSTATUS" Received From EU
+2020.07.06.16.03.44 : Player Account newusername Transfered Succesfully To AS !!!
+2020.07.06.16.03.44 : PlayerClient Tried to Sign Out But Player Acount with Username "newusername" does not exist!!!
+2020.07.06.16.03.44 : Admin Tried To Suspend Account But Player Account "newusername" Does Not Exist!!!
+2020.07.06.16.03.44 : Admin Successfully Suspended Player Account "rajmistry2298" !!!
+2020.07.06.16.03.44 : PlayerClient Tried TO Transfer Account But Player Acount With Username "newusername" does not exist!!!
+2020.07.06.16.03.44 : PlayerClient Tried TO Transfer Account But Player Acount With Username "rajmistry2298" does not exist!!!
+2020.07.06.16.03.44 : Admin Tried To Suspend Account But Player Account "newusername" Does Not Exist!!!
+2020.07.06.16.03.44 : Admin Tried To Suspend Account But Player Account "rajmistry2298" Does Not Exist!!!
+2020.07.06.16.03.44 : UDP Response For "GETSTATUS" Received From AS
+2020.07.06.16.03.44 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : NA: ONLINE : 1, OFFLINE : 5. , EU: ONLINE : 0, OFFLINE : 5., AS: ONLINE : 0, OFFLINE : 6.
+2020.07.06.16.03.44 : PlayerClient Tried TO Transfer Account But Player Acount With Username "rajmistry2298" does not exist!!!
+2020.07.06.16.03.44 : PlayerClient Tried to Sign Out But Player Acount with Username "newusername" does not exist!!!
+2020.07.06.16.03.44 : PlayerClient Tried TO Transfer Account But Player Acount With Username "newusername" does not exist!!!
+2020.07.06.16.03.44 : Admin Tried To Suspend Account But Player Account "newusername" Does Not Exist!!!
+2020.07.06.16.03.44 : Admin Tried To Suspend Account But Player Account "rajmistry2298" Does Not Exist!!!
+2020.07.06.16.03.44 : PlayerClient Tried TO Transfer Account But Player Acount With Username "rajmistry2298" does not exist!!!
+2020.07.06.16.03.49 : UDP Request received :GETSTATUS
+2020.07.06.16.03.49 : Response Sent For :GETSTATUS

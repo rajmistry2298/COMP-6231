@@ -1,0 +1,10 @@
+2020.06.07.18.04.51 : EU Log File Crated!!
+2020.06.07.18.04.51 : EU Server Started!!!
+2020.06.07.18.11.02 : PlayerClient Tried to Create A Player Account With Username "rajmistry2298" Is Alredy Exist!!!
+2020.06.07.18.23.25 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : EU: ONLINE : 0, OFFLINE : 3.  , NA: ONLINE : 0, OFFLINE : 3. , AS: ONLINE : 0, OFFLINE : 4.
+2020.06.07.18.27.21 : Player Account "brocklesner" Successfully Created!!!
+2020.06.07.18.28.21 : Player Account "brocklesner" Successfully Signed In!!!
+2020.06.07.18.30.18 : Player Account "brocklesner" Successfully Signed Out!!!
+2020.06.07.18.32.19 : Player Account "paulheymanguy" Successfully Signed In!!!
+2020.06.07.18.33.13 : Player Account "paulheymanguy" Successfully Signed Out!!!
+2020.06.07.18.35.12 : Admin Requested To Get Player Status. And Status Of All Player Account Returned After Getting Status from Other 2 Server : EU: ONLINE : 0, OFFLINE : 4.  , NA: ONLINE : 0, OFFLINE : 4. , AS: ONLINE : 0, OFFLINE : 4.

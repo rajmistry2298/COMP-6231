@@ -1,0 +1,3 @@
+2020.07.06.15.59.00 : Admin Successfully Connected To Server EU To Suspend Player Account rajmistry2298:: Player Account rajmistry2298 Successfully Suspended!!!
+2020.07.06.15.59.14 : Administrator Admin Successfully Connected To Server EU And Got Player Status ::
+EU: ONLINE : 0, OFFLINE : 4. , AS: ONLINE : 0, OFFLINE : 5., NA: ONLINE : 0, OFFLINE : 6.

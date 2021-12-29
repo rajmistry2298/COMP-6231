@@ -1,0 +1,2 @@
+Administrator Admin Successfully Connected To Server AS And Got Player Status ::
+AS: ONLINE : 0, OFFLINE : 4.  , NA: ONLINE : 0, OFFLINE : 3. , EU: ONLINE : 0, OFFLINE : 3.
